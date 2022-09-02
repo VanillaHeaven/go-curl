@@ -1,0 +1,4 @@
+github.com/Tropicana33/common v0.0.0-20171023045828-d2c501343b07 h1:LmdXSaM/88mWHez87s8xZqpCIwquiP/iRMfeNauowjM=
+github.com/Tropicana33/common v0.0.0-20171023045828-d2c501343b07/go.mod h1:QP16rAhpuBtTOJHkaqFTaHeVvgrMvPP7zCCIC/3JiwY=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
